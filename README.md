@@ -406,5 +406,15 @@ OpenRouter free tier is perfectly fine and demonstrates real API integration.
 
 ---
 
-**Built with 🤖 + 🎨 by [Your Name]**  
+**Built with 🤖 + 🎨 by Sandhya Singh  
 For 360Ghar Software Developer Intern Assignment | June 2026
+## 📹 Demo Video
+
+[Watch the complete walkthrough here](https://www.loom.com/share/50d754d8a54d4c19baeca5347549dcbe)
+
+In this video, I demonstrate:
+- Natural language property search
+- Voice input functionality  
+- Property detail modal with AI summary
+- Smart property ranking
+
